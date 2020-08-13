@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ailing Piao | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/author/ailing-piao/</link>
+      <atom:link href="https://yscacaca.github.io/author/ailing-piao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ailing Piao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Ailing Piao</title>
+      <link>https://yscacaca.github.io/author/ailing-piao/</link>
+    </image>
+    
+    <item>
+      <title>STFNets: Learning sensing signals from the time-frequency perspective with short-time fourier neural networks</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-stfnets/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-stfnets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eugene: Towards deep intelligence as a service</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-eugene/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-eugene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SADeepSense: Self-Attention Deep Learning Framework for Heterogeneous On-Device Sensors in Internet of Things Applications</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-sadeepsense/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-sadeepsense/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

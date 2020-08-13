@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinyang Li | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/author/jinyang-li/</link>
+      <atom:link href="https://yscacaca.github.io/author/jinyang-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinyang Li</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jinyang Li</title>
+      <link>https://yscacaca.github.io/author/jinyang-li/</link>
+    </image>
+    
+    <item>
+      <title>GIobalFusion: A Global Attentional Deep Learning Framework for Multisensor Information Fusion</title>
+      <link>https://yscacaca.github.io/publication/liu-2020-giobalfusion/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/liu-2020-giobalfusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STFNets: Learning sensing signals from the time-frequency perspective with short-time fourier neural networks</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-stfnets/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-stfnets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stardust: A deep learning serving system in IoT: demo abstract</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-stardust/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-stardust/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

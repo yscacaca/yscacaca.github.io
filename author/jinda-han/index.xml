@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jinda Han | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/author/jinda-han/</link>
+      <atom:link href="https://yscacaca.github.io/author/jinda-han/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jinda Han</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jinda Han</title>
+      <link>https://yscacaca.github.io/author/jinda-han/</link>
+    </image>
+    
+    <item>
+      <title>A constrained maximum likelihood estimator for unguided social sensing</title>
+      <link>https://yscacaca.github.io/publication/shao-2018-constrained/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2018-constrained/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

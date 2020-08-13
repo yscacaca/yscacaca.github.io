@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title> others | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/author/others/</link>
+      <atom:link href="https://yscacaca.github.io/author/others/index.xml" rel="self" type="application/rss+xml" />
+    <description> others</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title> others</title>
+      <link>https://yscacaca.github.io/author/others/</link>
+    </image>
+    
+    <item>
+      <title>Multiscale online media simulation with SocialCube</title>
+      <link>https://yscacaca.github.io/publication/abdelzaher-2020-multiscale/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/abdelzaher-2020-multiscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STFNets: Learning sensing signals from the time-frequency perspective with short-time fourier neural networks</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-stfnets/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-stfnets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepFusion: A Deep Learning Framework for the Fusion of Heterogeneous Sensory Data</title>
+      <link>https://yscacaca.github.io/publication/xue-2019-deepfusion/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/xue-2019-deepfusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eugene: Towards deep intelligence as a service</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-eugene/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-eugene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Athena: Towards decision-centric anticipatory sensor information delivery</title>
+      <link>https://yscacaca.github.io/publication/lee-2018-athena/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/lee-2018-athena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards environment independent device free human activity recognition</title>
+      <link>https://yscacaca.github.io/publication/jiang-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/jiang-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision-driven execution: A distributed resource management paradigm for the age of iot</title>
+      <link>https://yscacaca.github.io/publication/abdelzaher-2017-decision/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/abdelzaher-2017-decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursive ground truth estimator for social data streams</title>
+      <link>https://yscacaca.github.io/publication/yao-2016-recursive/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2016-recursive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data acquisition for real-time decision-making under freshness constraints</title>
+      <link>https://yscacaca.github.io/publication/hu-2015-data/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/hu-2015-data/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

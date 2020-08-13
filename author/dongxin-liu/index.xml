@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dongxin Liu | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/author/dongxin-liu/</link>
+      <atom:link href="https://yscacaca.github.io/author/dongxin-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dongxin Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Dongxin Liu</title>
+      <link>https://yscacaca.github.io/author/dongxin-liu/</link>
+    </image>
+    
+    <item>
+      <title>Truth Discovery with Multi-modal Data in Social Sensing</title>
+      <link>https://yscacaca.github.io/publication/shao-2020-truth/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2020-truth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIobalFusion: A Global Attentional Deep Learning Framework for Multisensor Information Fusion</title>
+      <link>https://yscacaca.github.io/publication/liu-2020-giobalfusion/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/liu-2020-giobalfusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale online media simulation with SocialCube</title>
+      <link>https://yscacaca.github.io/publication/abdelzaher-2020-multiscale/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/abdelzaher-2020-multiscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STFNets: Learning sensing signals from the time-frequency perspective with short-time fourier neural networks</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-stfnets/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-stfnets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A latent hawkes process model for event clustering and temporal dynamics learning with applications in GitHub</title>
+      <link>https://yscacaca.github.io/publication/liu-2019-latent/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/liu-2019-latent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eugene: Towards deep intelligence as a service</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-eugene/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-eugene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GreenRoute: A Generalizable Fuel-Saving Vehicular Navigation Service</title>
+      <link>https://yscacaca.github.io/publication/zhao-2019-greenroute/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2019-greenroute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SADeepSense: Self-Attention Deep Learning Framework for Heterogeneous On-Device Sensors in Internet of Things Applications</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-sadeepsense/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-sadeepsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Evaluation of Fuel-Saving Systems in the City of Chicago</title>
+      <link>https://yscacaca.github.io/publication/zhao-2019-simulation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2019-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Fact-finding with Multi-modal Data in Social Sensing</title>
+      <link>https://yscacaca.github.io/publication/shao-2019-unsupervised/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fastdeepiot: Towards understanding and optimizing neural network execution time on mobile and embedded devices</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-fastdeepiot/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-fastdeepiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SenseGAN: Enabling deep learning for internet of things with a semi-supervised framework</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-sensegan/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-sensegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A predictive self-configuring simulator for online media</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-predictive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ApDeepsense: Deep learning uncertainty estimation without the pain for iot applications</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-apdeepsense/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-apdeepsense/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

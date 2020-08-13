@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xinzhe Fu | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/author/xinzhe-fu/</link>
+      <atom:link href="https://yscacaca.github.io/author/xinzhe-fu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xinzhe Fu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xinzhe Fu</title>
+      <link>https://yscacaca.github.io/author/xinzhe-fu/</link>
+    </image>
+    
+    <item>
+      <title>A latent hawkes process model for event clustering and temporal dynamics learning with applications in GitHub</title>
+      <link>https://yscacaca.github.io/publication/liu-2019-latent/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/liu-2019-latent/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

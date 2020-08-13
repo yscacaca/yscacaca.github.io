@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lu Su | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/author/lu-su/</link>
+      <atom:link href="https://yscacaca.github.io/author/lu-su/index.xml" rel="self" type="application/rss+xml" />
+    <description>Lu Su</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Lu Su</title>
+      <link>https://yscacaca.github.io/author/lu-su/</link>
+    </image>
+    
+    <item>
+      <title>Truth Discovery with Multi-modal Data in Social Sensing</title>
+      <link>https://yscacaca.github.io/publication/shao-2020-truth/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2020-truth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepMV: Multi-View Deep Learning for Device-Free Human Activity Recognition</title>
+      <link>https://yscacaca.github.io/publication/xue-2020-deepmv/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/xue-2020-deepmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Fact-finding with Multi-modal Data in Social Sensing</title>
+      <link>https://yscacaca.github.io/publication/shao-2019-unsupervised/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fastdeepiot: Towards understanding and optimizing neural network execution time on mobile and embedded devices</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-fastdeepiot/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-fastdeepiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SenseGAN: Enabling deep learning for internet of things with a semi-supervised framework</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-sensegan/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-sensegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A constrained maximum likelihood estimator for unguided social sensing</title>
+      <link>https://yscacaca.github.io/publication/shao-2018-constrained/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2018-constrained/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ApDeepsense: Deep learning uncertainty estimation without the pain for iot applications</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-apdeepsense/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-apdeepsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for the internet of things</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework</title>
+      <link>https://yscacaca.github.io/publication/yao-2017-deepiot/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2017-deepiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greendrive: A smartphone-based intelligent speed adaptation system with real-time traffic signal prediction</title>
+      <link>https://yscacaca.github.io/publication/zhao-2017-greendrive/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2017-greendrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On source dependency models for reliable social sensing: Algorithms and fundamental error bounds</title>
+      <link>https://yscacaca.github.io/publication/yao-2016-source/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2016-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursive ground truth estimator for social data streams</title>
+      <link>https://yscacaca.github.io/publication/yao-2016-recursive/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2016-recursive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On exploiting logical dependencies for minimizing additive cost metrics in resource-limited crowdsensing</title>
+      <link>https://yscacaca.github.io/publication/hu-2015-exploiting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/hu-2015-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable social sensing of interdependent phenomena</title>
+      <link>https://yscacaca.github.io/publication/wang-2015-scalable/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/wang-2015-scalable/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

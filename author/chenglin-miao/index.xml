@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chenglin Miao | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/author/chenglin-miao/</link>
+      <atom:link href="https://yscacaca.github.io/author/chenglin-miao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chenglin Miao</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Chenglin Miao</title>
+      <link>https://yscacaca.github.io/author/chenglin-miao/</link>
+    </image>
+    
+    <item>
+      <title>DeepMV: Multi-View Deep Learning for Device-Free Human Activity Recognition</title>
+      <link>https://yscacaca.github.io/publication/xue-2020-deepmv/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/xue-2020-deepmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepFusion: A Deep Learning Framework for the Fusion of Heterogeneous Sensory Data</title>
+      <link>https://yscacaca.github.io/publication/xue-2019-deepfusion/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/xue-2019-deepfusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards environment independent device free human activity recognition</title>
+      <link>https://yscacaca.github.io/publication/jiang-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/jiang-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

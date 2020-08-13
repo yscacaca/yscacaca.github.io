@@ -1,0 +1,400 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/publication/</link>
+      <atom:link href="https://yscacaca.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Publications</title>
+      <link>https://yscacaca.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Truth Discovery with Multi-modal Data in Social Sensing</title>
+      <link>https://yscacaca.github.io/publication/shao-2020-truth/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2020-truth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>paper2repo: GitHub Repository Recommendation for Academic Papers</title>
+      <link>https://yscacaca.github.io/publication/shao-2020-paper-2-repo/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2020-paper-2-repo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIobalFusion: A Global Attentional Deep Learning Framework for Multisensor Information Fusion</title>
+      <link>https://yscacaca.github.io/publication/liu-2020-giobalfusion/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/liu-2020-giobalfusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepMV: Multi-View Deep Learning for Device-Free Human Activity Recognition</title>
+      <link>https://yscacaca.github.io/publication/xue-2020-deepmv/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/xue-2020-deepmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five challenges in cloud-enabled intelligence and control</title>
+      <link>https://yscacaca.github.io/publication/abdelzaher-2020-five/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/abdelzaher-2020-five/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale online media simulation with SocialCube</title>
+      <link>https://yscacaca.github.io/publication/abdelzaher-2020-multiscale/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/abdelzaher-2020-multiscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STFNets: Learning sensing signals from the time-frequency perspective with short-time fourier neural networks</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-stfnets/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-stfnets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A latent hawkes process model for event clustering and temporal dynamics learning with applications in GitHub</title>
+      <link>https://yscacaca.github.io/publication/liu-2019-latent/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/liu-2019-latent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepFusion: A Deep Learning Framework for the Fusion of Heterogeneous Sensory Data</title>
+      <link>https://yscacaca.github.io/publication/xue-2019-deepfusion/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/xue-2019-deepfusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dependable machine intelligence at the tactical edge</title>
+      <link>https://yscacaca.github.io/publication/misra-2019-dependable/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/misra-2019-dependable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Eugene: Towards deep intelligence as a service</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-eugene/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-eugene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GreenRoute: A Generalizable Fuel-Saving Vehicular Navigation Service</title>
+      <link>https://yscacaca.github.io/publication/zhao-2019-greenroute/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2019-greenroute/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SADeepSense: Self-Attention Deep Learning Framework for Heterogeneous On-Device Sensors in Internet of Things Applications</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-sadeepsense/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-sadeepsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Simulation Evaluation of Fuel-Saving Systems in the City of Chicago</title>
+      <link>https://yscacaca.github.io/publication/zhao-2019-simulation/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2019-simulation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stardust: A deep learning serving system in IoT: demo abstract</title>
+      <link>https://yscacaca.github.io/publication/yao-2019-stardust/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2019-stardust/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Fact-finding with Multi-modal Data in Social Sensing</title>
+      <link>https://yscacaca.github.io/publication/shao-2019-unsupervised/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2019-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fastdeepiot: Towards understanding and optimizing neural network execution time on mobile and embedded devices</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-fastdeepiot/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-fastdeepiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SenseGAN: Enabling deep learning for internet of things with a semi-supervised framework</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-sensegan/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-sensegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A constrained maximum likelihood estimator for unguided social sensing</title>
+      <link>https://yscacaca.github.io/publication/shao-2018-constrained/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2018-constrained/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A predictive self-configuring simulator for online media</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-predictive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-predictive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Spherical Hidden Markov Model for Semantics-Rich Human Mobility Modeling.</title>
+      <link>https://yscacaca.github.io/publication/zhu-2018-spherical/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhu-2018-spherical/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ApDeepsense: Deep learning uncertainty estimation without the pain for iot applications</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-apdeepsense/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-apdeepsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Athena: Towards decision-centric anticipatory sensor information delivery</title>
+      <link>https://yscacaca.github.io/publication/lee-2018-athena/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/lee-2018-athena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Codrive: cooperative driving scheme for vehicles in urban signalized intersections</title>
+      <link>https://yscacaca.github.io/publication/zhao-2018-codrive/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2018-codrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De facto diagnosis specialties: R ecognition and discovery</title>
+      <link>https://yscacaca.github.io/publication/zhang-2018-facto/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhang-2018-facto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for the internet of things</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Qualitydeepsense: Quality-aware deep learning framework for internet of things applications with sensor-temporal attention</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-qualitydeepsense/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-qualitydeepsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rdeepsense: Reliable deep mobile computing models with uncertainty estimations</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-rdeepsense/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-rdeepsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards environment independent device free human activity recognition</title>
+      <link>https://yscacaca.github.io/publication/jiang-2018-towards/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/jiang-2018-towards/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepIoT: Compressing Deep Neural Network Structures for Sensing Systems with a Compressor-Critic Framework</title>
+      <link>https://yscacaca.github.io/publication/yao-2017-deepiot/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2017-deepiot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deepsense: A unified deep learning framework for time-series mobile sensing data processing</title>
+      <link>https://yscacaca.github.io/publication/yao-2017-deepsense/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2017-deepsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Decision-driven execution: A distributed resource management paradigm for the age of iot</title>
+      <link>https://yscacaca.github.io/publication/abdelzaher-2017-decision/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/abdelzaher-2017-decision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Greendrive: A smartphone-based intelligent speed adaptation system with real-time traffic signal prediction</title>
+      <link>https://yscacaca.github.io/publication/zhao-2017-greendrive/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2017-greendrive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On the improvement of classifying EEG recordings using neural networks</title>
+      <link>https://yscacaca.github.io/publication/zhao-2017-improvement/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2017-improvement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing source selection in social sensing in the presence of influence graphs</title>
+      <link>https://yscacaca.github.io/publication/shao-2017-optimizing/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2017-optimizing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Fill-level Estimation for Smart Trash Removal Systems.</title>
+      <link>https://yscacaca.github.io/publication/zhao-2017-unsupervised/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2017-unsupervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unveiling polarization in social networks: A matrix factorization approach</title>
+      <link>https://yscacaca.github.io/publication/al-2017-unveiling/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/al-2017-unveiling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VibeBin: A vibration-based waste bin level detection system</title>
+      <link>https://yscacaca.github.io/publication/zhao-2017-vibebin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2017-vibebin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimental evaluation of datacenter workloads on low-power embedded micro servers</title>
+      <link>https://yscacaca.github.io/publication/zhao-2016-experimental/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2016-experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of social relationships and inhomogeneous node distribution on the network performance</title>
+      <link>https://yscacaca.github.io/publication/zheng-2016-impacts/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zheng-2016-impacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On source dependency models for reliable social sensing: Algorithms and fundamental error bounds</title>
+      <link>https://yscacaca.github.io/publication/yao-2016-source/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2016-source/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal capacity--delay tradeoff in MANETs with correlation of node mobility</title>
+      <link>https://yscacaca.github.io/publication/jia-2016-optimal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/jia-2016-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recursive ground truth estimator for social data streams</title>
+      <link>https://yscacaca.github.io/publication/yao-2016-recursive/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2016-recursive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data acquisition for real-time decision-making under freshness constraints</title>
+      <link>https://yscacaca.github.io/publication/hu-2015-data/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/hu-2015-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On exploiting logical dependencies for minimizing additive cost metrics in resource-limited crowdsensing</title>
+      <link>https://yscacaca.github.io/publication/hu-2015-exploiting/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/hu-2015-exploiting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scalable social sensing of interdependent phenomena</title>
+      <link>https://yscacaca.github.io/publication/wang-2015-scalable/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/wang-2015-scalable/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Social signal processing for real-time situational understanding: A vision and approach</title>
+      <link>https://yscacaca.github.io/publication/jayarajah-2015-social/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/jayarajah-2015-social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delay-throughput tradeoff with correlated mobility of ad-hoc networks</title>
+      <link>https://yscacaca.github.io/publication/yao-2014-delay/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2014-delay/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

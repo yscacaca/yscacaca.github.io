@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/publication-type/2/</link>
+      <atom:link href="https://yscacaca.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://yscacaca.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Truth Discovery with Multi-modal Data in Social Sensing</title>
+      <link>https://yscacaca.github.io/publication/shao-2020-truth/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2020-truth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GIobalFusion: A Global Attentional Deep Learning Framework for Multisensor Information Fusion</title>
+      <link>https://yscacaca.github.io/publication/liu-2020-giobalfusion/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/liu-2020-giobalfusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DeepMV: Multi-View Deep Learning for Device-Free Human Activity Recognition</title>
+      <link>https://yscacaca.github.io/publication/xue-2020-deepmv/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/xue-2020-deepmv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Five challenges in cloud-enabled intelligence and control</title>
+      <link>https://yscacaca.github.io/publication/abdelzaher-2020-five/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/abdelzaher-2020-five/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiscale online media simulation with SocialCube</title>
+      <link>https://yscacaca.github.io/publication/abdelzaher-2020-multiscale/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/abdelzaher-2020-multiscale/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SenseGAN: Enabling deep learning for internet of things with a semi-supervised framework</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-sensegan/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-sensegan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Athena: Towards decision-centric anticipatory sensor information delivery</title>
+      <link>https://yscacaca.github.io/publication/lee-2018-athena/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/lee-2018-athena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>De facto diagnosis specialties: R ecognition and discovery</title>
+      <link>https://yscacaca.github.io/publication/zhang-2018-facto/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhang-2018-facto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Deep learning for the internet of things</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-deep/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-deep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rdeepsense: Reliable deep mobile computing models with uncertainty estimations</title>
+      <link>https://yscacaca.github.io/publication/yao-2018-rdeepsense/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2018-rdeepsense/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VibeBin: A vibration-based waste bin level detection system</title>
+      <link>https://yscacaca.github.io/publication/zhao-2017-vibebin/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2017-vibebin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An experimental evaluation of datacenter workloads on low-power embedded micro servers</title>
+      <link>https://yscacaca.github.io/publication/zhao-2016-experimental/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zhao-2016-experimental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Impacts of social relationships and inhomogeneous node distribution on the network performance</title>
+      <link>https://yscacaca.github.io/publication/zheng-2016-impacts/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/zheng-2016-impacts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal capacity--delay tradeoff in MANETs with correlation of node mobility</title>
+      <link>https://yscacaca.github.io/publication/jia-2016-optimal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/jia-2016-optimal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

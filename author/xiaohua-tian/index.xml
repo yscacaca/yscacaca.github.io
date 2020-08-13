@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xiaohua Tian | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/author/xiaohua-tian/</link>
+      <atom:link href="https://yscacaca.github.io/author/xiaohua-tian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xiaohua Tian</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Xiaohua Tian</title>
+      <link>https://yscacaca.github.io/author/xiaohua-tian/</link>
+    </image>
+    
+    <item>
+      <title>Optimal capacity--delay tradeoff in MANETs with correlation of node mobility</title>
+      <link>https://yscacaca.github.io/publication/jia-2016-optimal/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/jia-2016-optimal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delay-throughput tradeoff with correlated mobility of ad-hoc networks</title>
+      <link>https://yscacaca.github.io/publication/yao-2014-delay/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2014-delay/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
