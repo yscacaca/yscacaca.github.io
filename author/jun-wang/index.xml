@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Wang | Shuochao Yao</title>
+    <link>https://yscacaca.github.io/author/jun-wang/</link>
+      <atom:link href="https://yscacaca.github.io/author/jun-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Jun Wang</title>
+      <link>https://yscacaca.github.io/author/jun-wang/</link>
+    </image>
+    
+    <item>
+      <title>ControlVAE: Controllable Variational Autoencoder</title>
+      <link>https://yscacaca.github.io/publication/shao-2020-controlvae/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/shao-2020-controlvae/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
