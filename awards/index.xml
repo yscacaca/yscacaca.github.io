@@ -5,12 +5,20 @@
     <link>https://yscacaca.github.io/awards/</link>
       <atom:link href="https://yscacaca.github.io/awards/index.xml" rel="self" type="application/rss+xml" />
     <description>Research Awards</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 12 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Research Awards</title>
       <link>https://yscacaca.github.io/awards/</link>
     </image>
+    
+    <item>
+      <title>SenSys 2020 Best Paper Award</title>
+      <link>https://yscacaca.github.io/awards/sensys-2020/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/awards/sensys-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IMWUT (Volume 2) Distinguished Paper Award</title>

@@ -5,7 +5,7 @@
     <link>https://yscacaca.github.io/author/huajie-shao/</link>
       <atom:link href="https://yscacaca.github.io/author/huajie-shao/index.xml" rel="self" type="application/rss+xml" />
     <description>Huajie Shao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Huajie Shao</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Deep Compressive Offloading: Speeding up Neural Network Inference by Trading Edge Computation for Network Latency</title>
+      <link>https://yscacaca.github.io/publication/yao-2020-deepcod/</link>
+      <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2020-deepcod/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>ControlVAE: Controllable Variational Autoencoder</title>
       <link>https://yscacaca.github.io/publication/shao-2020-controlvae/</link>
       <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
       <guid>https://yscacaca.github.io/publication/shao-2020-controlvae/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scheduling real-time deep learning services as imprecise computations</title>
+      <link>https://yscacaca.github.io/publication/yao-2020-scheduling/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/publication/yao-2020-scheduling/</guid>
       <description></description>
     </item>
     
