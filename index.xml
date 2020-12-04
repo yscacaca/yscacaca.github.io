@@ -5,12 +5,20 @@
     <link>https://yscacaca.github.io/</link>
       <atom:link href="https://yscacaca.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Shuochao Yao</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 16 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 04 Dec 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://yscacaca.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Shuochao Yao</title>
       <link>https://yscacaca.github.io/</link>
     </image>
+    
+    <item>
+      <title>RTSS 2020 Best Paper Award</title>
+      <link>https://yscacaca.github.io/awards/rtss-2020/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://yscacaca.github.io/awards/rtss-2020/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Compressive Offloading: Speeding up Neural Network Inference by Trading Edge Computation for Network Latency</title>
