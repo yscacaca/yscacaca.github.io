@@ -23,4 +23,4 @@ The 22th International Conference on Information Fusion (ISIF FUSION) Student Pa
 
 The 15th ACM Conference on Embedded Networked Sensor Systems (ACM SenSys) Best Paper Award Nominee, Nov. 2017.
 
-The 8th International Conference on Cyber-Physical Systems (ACM/IEEE ICCPS) Best Paper Award, Apr. 2017
+The 8th International Conference on Cyber-Physical Systems (ACM/IEEE ICCPS) Best Paper Award, Apr. 2017.
