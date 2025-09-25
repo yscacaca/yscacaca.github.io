@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /awards/
-title: awards
+title: Academic Awards
 description: Academic awards and honors received. It is my honor to work with such talented students and collaborators.
 nav: true
 nav_order: 2
