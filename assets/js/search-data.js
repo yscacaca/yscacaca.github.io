@@ -16,8 +16,8 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-academic-awards",
-          title: "Academic Awards",
+        },{id: "nav-awards",
+          title: "Awards",
           description: "Academic awards and honors received. It is my honor to work with such talented students and collaborators.",
           section: "Navigation",
           handler: () => {
