@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://yscacaca.github.io/sitemap.xml
