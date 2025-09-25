@@ -23,16 +23,23 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/awards/";
           },
-        },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+        },{id: "news-our-on-device-dnn-training-paper-is-accepted-by-mobisys-25",
+          title: 'Our on-device DNN training paper is accepted by MobiSys 25.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-serving-on-the-technical-program-committee-tpc-for-rtss-25",
+          title: 'Serving on the Technical Program Committee (TPC) for RTSS 25.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-serving-on-the-technical-program-committee-tpc-for-sensys-26",
+          title: 'Serving on the Technical Program Committee (TPC) for SenSys 26.',
+          description: "",
+          section: "News",},{id: "news-our-anytime-lidar-inference-paper-received-the-outstanding-paper-award-in-rtcsa-2025",
+          title: 'Our anytime Lidar inference paper received the Outstanding Paper Award in RTCSA 2025....',
+          description: "",
+          section: "News",},{id: "news-our-streaming-llm-serving-paper-is-accepted-by-eurosys-26",
+          title: 'Our streaming LLM serving paper is accepted by EuroSys 26.',
+          description: "",
+          section: "News",},{id: "news-our-sensys-dynamic-sparse-dnn-inference-paper-has-been-selected-as-sigmobile-research-highlight",
+          title: 'Our SenSys dynamic sparse DNN inference paper has been selected as SIGMOBILE Research...',
           description: "",
           section: "News",},{
       id: 'light-theme',
