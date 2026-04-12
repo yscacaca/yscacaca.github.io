@@ -41,8 +41,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-sensys-dynamic-sparse-dnn-inference-paper-has-been-selected-as-sigmobile-research-highlight",
           title: 'Our SenSys dynamic sparse DNN inference paper has been selected as SIGMOBILE Research...',
           description: "",
-          section: "News",},{id: "news-our-paper-on-label-free-physics-supervised-learning-for-imu-sensing-has-been-conditionally-accepted-to-mobisys-2026",
-          title: 'Our paper on label-free, physics-supervised learning for IMU sensing has been conditionally accepted...',
+          section: "News",},{id: "news-our-paper-on-label-free-physics-supervised-learning-for-imu-sensing-has-been-accepted-to-mobisys-2026",
+          title: 'Our paper on label-free, physics-supervised learning for IMU sensing has been accepted to...',
           description: "",
           section: "News",},{
       id: 'light-theme',
