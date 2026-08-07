@@ -44,6 +44,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-on-label-free-physics-supervised-learning-for-imu-sensing-has-been-accepted-to-mobisys-2026",
           title: 'Our paper on label-free, physics-supervised learning for IMU sensing has been accepted to...',
           description: "",
+          section: "News",},{id: "news-our-paper-on-a-speculate-and-refine-async-streaming-framework-for-on-device-llm-inference-has-been-accepted-to-mobicom-2026",
+          title: 'Our paper on a ‘Speculate-and-Refine’ async streaming framework for on-device LLM inference has...',
+          description: "",
           section: "News",},{
       id: 'light-theme',
       title: 'Change theme to light',
